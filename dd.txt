@@ -1,0 +1,29 @@
+#!/usr/bin/python
+#my personal details
+
+print("Name: Clinton Hickson Eyyammeh")
+print("Email address: eyyammeh@gmail.com")
+print("Matric Numbers: UG17/MDHA/1005")
+print("Programming Language: Python 3.9")
+print("Subspecialty: Gene Mapping")
+print("Slack Username: @Eyyammeh Clinton Hickson")
+
+name <- "Dalbadal Paul Amana"
+email <- "dalbadal34@gmail.com"
+matric_number <- "UG17/MDHA/1009"
+programing_language <- "R"
+bioinformatics_subspeciality <- "Genomics"
+username <- "@Dalbadal Paul Amana"
+
+
+my_details <- c(name, email, matric_number, programing_language, bioinformatics_subspeciality, username)
+
+cat(paste(my_details, collapse = ','))
+<?php
+echo nl2br ("NAME: DAHIRU OKASHATU ISMAIL
+ \n EMAIL: dahiruokashatuismail@gmail.com
+\r\n MATRICULATION NUMBER: UG17/MDHA/1008 
+\r\n PROGRAMMING LANGUAGE: PHP 
+\r\n SUB-SPECIALITY: sequencing
+\r\n SLACK USERNAME: @dahiru okashatu ismail");
+?>
