@@ -1,0 +1,8 @@
+<?php
+echo nl2br ("NAME: DAHIRU OKASHATU ISMAIL
+ \n EMAIL: dahiruokashatuismail@gmail.com
+\r\n MATRICULATION NUMBER: UG17/MDHA/1008 
+\r\n PROGRAMMING LANGUAGE: PHP 
+\r\n SUB-SPECIALITY: sequencing
+\r\n SLACK USERNAME: @dahiru okashatu ismail");
+?>
